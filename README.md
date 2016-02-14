@@ -2,7 +2,7 @@
 C++ program where users can play sudoku, tictactoe and gomoku. 
 
 Michelle Yuan, Rebecca Siow, Shefali Gupta
-Lab 4
+Sudoku, TicTacToe and Gomoku
 ========================================================================
     CONSOLE APPLICATION : Lab4 Project Overview
 ========================================================================
